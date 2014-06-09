@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameManagerScript.cs">
+    <Files>
+      <File FileName="Assets\Script\GameManagerScript.cs" Line="89" Column="26" />
+      <File FileName="Assets\Script\InvaderScript.cs" Line="26" Column="32" />
+      <File FileName="Assets\Script\GameOverScript.cs" Line="18" Column="3" />
+      <File FileName="Assets\Script\GameClearScript.cs" Line="21" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

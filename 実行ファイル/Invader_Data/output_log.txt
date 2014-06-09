@@ -1,0 +1,49 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2274]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Subject\就活\作品集\Sasame\ゲーム\Unity\Invader\Build\Invader_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Subject\就活\作品集\Sasame\ゲーム\Unity\Invader\Build\Invader_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Subject\就活\作品集\Sasame\ゲーム\Unity\Invader\Build\Invader_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Subject\就活\作品集\Sasame\ゲーム\Unity\Invader\Build\Invader_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  1.060 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+UnloadTime: 2.506221 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 3.291084 ms (FindLiveObjects: 0.330793 ms CreateObjectMapping: 0.081362 ms MarkObjects: 0.659121 ms  DeleteObjects: 0.083828 ms)
+
+UnityEngine.GUISkin must be instantiated using the ScriptableObject.CreateInstance method instead of new GUISkin.
+ 
+(Filename:  Line: 742)
+
+custom styles is null
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 5.596364 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 4.080468 ms (FindLiveObjects: 0.052187 ms CreateObjectMapping: 0.040270 ms MarkObjects: 0.600769 ms  DeleteObjects: 1.635063 ms)
+
+UnityEngine.GUISkin must be instantiated using the ScriptableObject.CreateInstance method instead of new GUISkin.
+ 
+(Filename:  Line: 742)
+
+custom styles is null
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
